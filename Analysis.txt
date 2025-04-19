@@ -1,0 +1,4 @@
+Primary goal
+x1 = near-surface air temperature, building footprint data,  weather data, optical satellite data to identify vegetation, water proximity, surface state
+Secondary goal 
+Practical application of the output models for local decision-makers, scaling this solution to other cities, use other datasets improve model accuracy & evaluate socioeconomic impact.
