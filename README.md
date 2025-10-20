@@ -1,6 +1,3 @@
-Here’s a concise **README** for the `EYHack_DataScience/Model.ipynb` notebook, summarizing its workflow, requirements, and methodology:
-
-***
 
 # EYHack Urban Heat Island (UHI) Data Science Model
 
@@ -32,7 +29,7 @@ This notebook demonstrates how to analyze and model the Urban Heat Island (UHI) 
 
 ## 4. Weather Data Integration
 
-- Loads additional weather features from `NY_Mesonet_Weather.xlsx` (if available by sheet).
+- Loads additional weather features from `NY_Mesonet_Weather.xlsx` .
 
 ## 5. Model Training and Testing
 
@@ -88,8 +85,6 @@ pip install rioxarray stackstac pystac_client planetary_computer pyodc osmnx odc
 - scikit-learn, XGBoost documentation
 
 ***
-
-**Contact**: Contributors at [hindu-muppala/EYHack_DataScience][1]
 
 ***
 
