@@ -85,9 +85,3 @@ pip install rioxarray stackstac pystac_client planetary_computer pyodc osmnx odc
 - scikit-learn, XGBoost documentation
 
 ***
-
-***
-
-_This README summarizes the model workflow, code structure, and instructions for use based on the notebook content._[1]
-
-[1](https://github.com/hindu-muppala/EYHack_DataScience/blob/main/Model.ipynb)
